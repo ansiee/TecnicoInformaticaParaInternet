@@ -1,4 +1,4 @@
-# <h1>**Curso Tecnico em Informatica para Internet** 👩🏻‍💻
+<h1 align = "center"> Curso Tecnico em Informatica para Internet 📚
 
 <h3>Armazenamento de atividades feitas em sala de aula.
 <br/>
