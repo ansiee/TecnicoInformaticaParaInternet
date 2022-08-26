@@ -1,11 +1,14 @@
-# <h1>**Tecnico em Informatica para Internet**
+# <h1>**Curso Tecnico em Informatica para Internet** 👩🏻‍💻
 
-Armazenamento de atividades feitas em sala de aula.
+<h3>Armazenamento de atividades feitas em sala de aula.
+<br/>
+<br/>
+<br/>
 
-<h4> - Estrutura Sequencial <a href= "https://github.com/ansiee/TecnicoInformaticaParaInternet/tree/main/LogicaDeProgramacao/EstruturaSequencial" ><img src="https://export-download.canva.com/rLUn4/DAFKY-rLUn4/5/0/0001-33750857216.png" ></a>
+<a href= "https://github.com/ansiee/TecnicoInformaticaParaInternet/tree/main/LogicaDeProgramacao/EstruturaSequencial" ><img  height = "20" src="https://media.discordapp.net/attachments/886704677251584020/1012571371320131685/1.png" ></a>
 
-<h4> - Estrutura Condicional <a href= "https://github.com/ansiee/TecnicoInformaticaParaInternet/tree/main/LogicaDeProgramacao/EstruturaCondicional"/>
+<a href= "https://github.com/ansiee/TecnicoInformaticaParaInternet/tree/main/LogicaDeProgramacao/EstruturaCondicional" ><img  height = "20" src="https://media.discordapp.net/attachments/886704677251584020/1012571370959425586/3.png" ></a>
 
-<h4> - Estrutura de Repetição <a href= "https://github.com/ansiee/TecnicoInformaticaParaInternet/tree/main/LogicaDeProgramacao/EstruturaRepeticao"</a>
- 
+<a href= "https://github.com/ansiee/TecnicoInformaticaParaInternet/tree/main/LogicaDeProgramacao/EstruturaRepeticao" ><img  height = "20" src="https://media.discordapp.net/attachments/886704677251584020/1012571371320131685/1.png" ></a>
+
  
